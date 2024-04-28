@@ -2,16 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/tr/sitemap.xml</loc>
+    <loc>https://melihcoskun.com/tr/sitemap.xml</loc>
     
       <lastmod>2011-08-28T10:58:08-04:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
-    
-      <lastmod>2011-08-28T10:58:08-04:00</lastmod>
+    <loc>https://melihcoskun.com/en/sitemap.xml</loc>
     
   </sitemap>
   

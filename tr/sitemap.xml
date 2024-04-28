@@ -2,707 +2,287 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/bayram/</loc>
+    <loc>https://melihcoskun.com/tags/bayram/</loc>
+    <lastmod>2011-08-28T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melihcoskun.com/</loc>
     <lastmod>2011-08-28T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/bayram/"
+                href="https://melihcoskun.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tags/bayram/"
+                href="https://melihcoskun.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://melihcoskun.com/tags/oru%C3%A7/</loc>
+    <lastmod>2011-08-28T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melihcoskun.com/tags/ramazan-davulcusu/</loc>
+    <lastmod>2011-08-28T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melihcoskun.com/post/a9/</loc>
+    <lastmod>2011-08-28T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melihcoskun.com/tags/</loc>
     <lastmod>2011-08-28T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://melihcoskun.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/"
+                href="https://melihcoskun.com/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/oru%C3%A7/</loc>
+    <loc>https://melihcoskun.com/post/</loc>
     <lastmod>2011-08-28T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/oru%C3%A7/"
+                href="https://melihcoskun.com/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tags/oru%C3%A7/"
+                href="https://melihcoskun.com/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/ramazan-davulcusu/</loc>
-    <lastmod>2011-08-28T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/ramazan-davulcusu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/ramazan-davulcusu/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/articles/a9/</loc>
-    <lastmod>2011-08-28T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/a9/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/a9/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2011-08-28T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/articles/</loc>
-    <lastmod>2011-08-28T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/facebook/</loc>
+    <loc>https://melihcoskun.com/tags/facebook/</loc>
     <lastmod>2011-08-21T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/facebook/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/facebook/"
-                />
   </url><url>
-    <loc>http://localhost:1313/articles/a8/</loc>
+    <loc>https://melihcoskun.com/post/a8/</loc>
     <lastmod>2011-08-21T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/a8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/a8/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/sosyal-medya/</loc>
+    <loc>https://melihcoskun.com/tags/sosyal-medya/</loc>
     <lastmod>2011-08-21T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/sosyal-medya/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/sosyal-medya/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/twitter/</loc>
+    <loc>https://melihcoskun.com/tags/twitter/</loc>
     <lastmod>2011-08-21T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/twitter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/twitter/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/ar/</loc>
+    <loc>https://melihcoskun.com/tags/ar/</loc>
     <lastmod>2011-08-13T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/ar/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/auto-replenishment/</loc>
+    <loc>https://melihcoskun.com/tags/auto-replenishment/</loc>
     <lastmod>2011-08-13T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/auto-replenishment/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/auto-replenishment/"
-                />
   </url><url>
-    <loc>http://localhost:1313/articles/a7/</loc>
+    <loc>https://melihcoskun.com/post/a7/</loc>
     <lastmod>2011-08-13T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/a7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/a7/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/retail/</loc>
+    <loc>https://melihcoskun.com/tags/retail/</loc>
     <lastmod>2011-08-13T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/retail/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/retail/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/rezerve/</loc>
+    <loc>https://melihcoskun.com/tags/rezerve/</loc>
     <lastmod>2011-08-13T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/rezerve/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/rezerve/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/%C3%A7e%C5%9Fme/</loc>
+    <loc>https://melihcoskun.com/tags/%C3%A7e%C5%9Fme/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/%C3%A7e%C5%9Fme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/%C3%A7e%C5%9Fme/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/gezi/</loc>
+    <loc>https://melihcoskun.com/tags/gezi/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/gezi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/gezi/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/g%C3%B6kova/</loc>
+    <loc>https://melihcoskun.com/tags/g%C3%B6kova/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/g%C3%B6kova/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/g%C3%B6kova/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/hidayetin-yeri/</loc>
+    <loc>https://melihcoskun.com/tags/hidayetin-yeri/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/hidayetin-yeri/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/hidayetin-yeri/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/i%C3%A7meler/</loc>
+    <loc>https://melihcoskun.com/tags/i%C3%A7meler/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/i%C3%A7meler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/i%C3%A7meler/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/marmaris/</loc>
+    <loc>https://melihcoskun.com/tags/marmaris/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/marmaris/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/marmaris/"
-                />
   </url><url>
-    <loc>http://localhost:1313/articles/a6/</loc>
+    <loc>https://melihcoskun.com/post/a6/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/a6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/a6/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/sedir-adas%C4%B1/</loc>
+    <loc>https://melihcoskun.com/tags/sedir-adas%C4%B1/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/sedir-adas%C4%B1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/sedir-adas%C4%B1/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/selimiye/</loc>
+    <loc>https://melihcoskun.com/tags/selimiye/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/selimiye/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/selimiye/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/seyahat/</loc>
+    <loc>https://melihcoskun.com/tags/seyahat/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/seyahat/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/seyahat/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/turun%C3%A7/</loc>
+    <loc>https://melihcoskun.com/tags/turun%C3%A7/</loc>
     <lastmod>2011-08-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/turun%C3%A7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/turun%C3%A7/"
-                />
   </url><url>
-    <loc>http://localhost:1313/articles/a5/</loc>
+    <loc>https://melihcoskun.com/post/a5/</loc>
     <lastmod>2011-06-25T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/a5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/a5/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/junior/</loc>
+    <loc>https://melihcoskun.com/tags/junior/</loc>
     <lastmod>2011-06-25T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/junior/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/junior/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/senior/</loc>
+    <loc>https://melihcoskun.com/tags/senior/</loc>
     <lastmod>2011-06-25T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/senior/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/senior/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/yaz%C4%B1l%C4%B1m-uzman%C4%B1/</loc>
+    <loc>https://melihcoskun.com/tags/yaz%C4%B1l%C4%B1m-uzman%C4%B1/</loc>
     <lastmod>2011-06-25T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/yaz%C4%B1l%C4%B1m-uzman%C4%B1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/yaz%C4%B1l%C4%B1m-uzman%C4%B1/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/cheesecake/</loc>
+    <loc>https://melihcoskun.com/tags/cheesecake/</loc>
     <lastmod>2011-06-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/cheesecake/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/cheesecake/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/cikolata/</loc>
+    <loc>https://melihcoskun.com/tags/cikolata/</loc>
     <lastmod>2011-06-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/cikolata/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/cikolata/"
-                />
   </url><url>
-    <loc>http://localhost:1313/articles/a4/</loc>
+    <loc>https://melihcoskun.com/post/a4/</loc>
     <lastmod>2011-06-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/a4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/a4/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/marias-cheesecake/</loc>
+    <loc>https://melihcoskun.com/tags/marias-cheesecake/</loc>
     <lastmod>2011-06-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/marias-cheesecake/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/marias-cheesecake/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/barcelona/</loc>
+    <loc>https://melihcoskun.com/tags/barcelona/</loc>
     <lastmod>2011-06-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/barcelona/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/barcelona/"
-                />
   </url><url>
-    <loc>http://localhost:1313/articles/a3/</loc>
+    <loc>https://melihcoskun.com/post/a3/</loc>
     <lastmod>2011-06-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/a3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/a3/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/park-guell/</loc>
+    <loc>https://melihcoskun.com/tags/park-guell/</loc>
     <lastmod>2011-06-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/park-guell/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/park-guell/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/sagra-de-familia/</loc>
+    <loc>https://melihcoskun.com/tags/sagra-de-familia/</loc>
     <lastmod>2011-06-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/sagra-de-familia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/sagra-de-familia/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/spain/</loc>
+    <loc>https://melihcoskun.com/tags/spain/</loc>
     <lastmod>2011-06-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/spain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/spain/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/tividabo/</loc>
+    <loc>https://melihcoskun.com/tags/tividabo/</loc>
     <lastmod>2011-06-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/tividabo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/tividabo/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/hayat-kadini/</loc>
+    <loc>https://melihcoskun.com/tags/hayat-kadini/</loc>
     <lastmod>2011-06-02T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/hayat-kadini/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/hayat-kadini/"
-                />
   </url><url>
-    <loc>http://localhost:1313/articles/a2/</loc>
+    <loc>https://melihcoskun.com/post/a2/</loc>
     <lastmod>2011-06-02T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/a2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/a2/"
-                />
   </url><url>
-    <loc>http://localhost:1313/tags/yazilimci/</loc>
+    <loc>https://melihcoskun.com/tags/yazilimci/</loc>
     <lastmod>2011-06-02T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/yazilimci/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tags/yazilimci/"
-                />
   </url><url>
-    <loc>http://localhost:1313/articles/a1/</loc>
+    <loc>https://melihcoskun.com/post/a1/</loc>
     <lastmod>2011-05-31T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/articles/a1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/articles/a1/"
-                />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://melihcoskun.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://melihcoskun.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/categories/"
+                href="https://melihcoskun.com/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://melihcoskun.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="https://melihcoskun.com/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/about/"
+                href="https://melihcoskun.com/about/"
                 />
   </url>
 </urlset>
